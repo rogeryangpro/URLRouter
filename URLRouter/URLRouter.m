@@ -3,7 +3,6 @@
 //  Vacation
 //
 //  Created by cheng.yang on 4/7/16.
-//  Copyright © 2016 Qunar.com. All rights reserved.
 //
 
 #import "URLRouter.h"
